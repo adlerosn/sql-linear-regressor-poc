@@ -1,0 +1,6 @@
+.vscode
+.mypy_chache
+Olympics_data.zip
+athlete_events.csv
+db.sqlite3
+linear_regressions.csv
