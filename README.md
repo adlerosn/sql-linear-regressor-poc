@@ -77,3 +77,7 @@ The output is the file `linear_regression.csv` that is expected to contain:
 |----------------|---------|---------|--------------------|------------------|
 | athlete_events | Year | Height | 0.0234981604396816 | 128.605672884188 |
 | athlete_events | Year | Weight | 0.013394127322599 | 44.0563484199918 |
+
+## See also
+
+- [SQL Clusterizer PoC](https://git.adlerneves.com/adler/sql-clusterizer-poc)
